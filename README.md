@@ -6,6 +6,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yokwejuste)](https://github.com/ryo-ma/github-profile-trophy)
 
+https://github-profile-trophy.vercel.app/?username=yokwejuste&title=Stars,Followers
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on some personnal projects
