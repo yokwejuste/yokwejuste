@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# <p text-align="center">🏆 GitHub Profile Trophy</p>
+# <p text-align="center">🏆 GitHub Profile Trophy Dudes</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yokwejuste)](https://github.com/ryo-ma/github-profile-trophy)
 
