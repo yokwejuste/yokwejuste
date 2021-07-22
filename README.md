@@ -1,3 +1,6 @@
+Not a forker, creator is preferable. Creative mindset is on.
+
+
 ### Hi there 👋
 
 # <p align="center">🏆 GitHub Profile Trophy Dudes</p>
@@ -6,8 +9,10 @@
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=yokwejuste&row=2&column=3"></p>
 
-<script src="https://gist.github.com/yokwejuste/13b0777773a41af606e78ab1bcf5ed30.js" > </script>
+<p align="center"></p>
 
+#### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> Configuration
+Configuration can be launched from the **Tools -> Settings** menu option.
 
 Here are some ideas to get you started:
 
