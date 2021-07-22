@@ -11,9 +11,6 @@ Not a forker, creator is preferable. Creative mindset is on.
 
 <p align="center"></p>
 
-#### <i class="fa fa-gear fa-spin fa-2x" style="color: red"></i> Configuration
-Configuration can be launched from the **Tools -> Settings** menu option.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on some personnal projects
