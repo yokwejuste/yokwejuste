@@ -7,6 +7,8 @@ Not a forker, creator is preferable. Creative mindset is on.
 
 ![img](https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png?style=centerme)
 
+[![yokwejuste's stats](https://github-readme-stats.vercel.app/api?username=yokwejuste)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Yokwejuste's graph](https://activity-graph.herokuapp.com/graph?username=yokwejuste&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
