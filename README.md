@@ -13,7 +13,7 @@ Not a forker, creator is preferable. Creative mindset is on.
 
 [![Yokwejuste's graph](https://activity-graph.herokuapp.com/graph?username=yokwejuste&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yowejuste&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yokwejuste&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
