@@ -9,9 +9,10 @@ Not a forker, creator is preferable. Creative mindset is on.
 
 ![Yowejuste's's GitHub stats](https://github-readme-stats.vercel.app/api?username=yokwejuste&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yokwejuste=github-readme-stats)](https://github.com/yokwejuste/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yokwejuste&langs_count=13)](https://github.com/yokwejuste/github-readme-stats)
+
+[![Yokwejuste's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yokwejuste)](https://github.com/yokwejuste/github-readme-stats)
+
 
 
 
