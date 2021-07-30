@@ -7,7 +7,7 @@ Not a forker, creator is preferable. Creative mindset is on.
 
 ![img](https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png?style=centerme)
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark
+![](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
 
 
 ![Yowejuste's's GitHub stats](https://github-readme-stats.vercel.app/api?username=yokwejuste&show_icons=true&theme=radical)
