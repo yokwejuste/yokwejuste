@@ -9,13 +9,10 @@ Not a forker, creator is preferable. Creative mindset is on.
 
 ![Yowejuste's's GitHub stats](https://github-readme-stats.vercel.app/api?username=yokwejuste&show_icons=true&theme=radical)
 
-
-
-[![Yokwejuste's graph](https://activity-graph.herokuapp.com/graph?username=yokwejuste &theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yokwejuste=github-readme-stats)](https://github.com/yokwejuste/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yokwejuste)](https://github.com/yokwejuste/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yokwejuste&langs_count=13)](https://github.com/yokwejuste/github-readme-stats)
+
 
 
 Here are some ideas to get you started:
