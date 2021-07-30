@@ -13,7 +13,7 @@ Not a forker, creator is preferable. Creative mindset is on.
 
 [![Yokwejuste's graph](https://activity-graph.herokuapp.com/graph?username=yokwejuste&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/yokwejuste/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yokwejuste=github-readme-stats)](https://github.com/yokwejuste/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yokwejuste)](https://github.com/yokwejuste/github-readme-stats)
 
