@@ -14,7 +14,7 @@ Not a forker, creator is preferable. Creative mindset is on.
 [![Yokwejuste's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yokwejuste)](https://github.com/yokwejuste/github-readme-stats)
 
 <a href="https://github.com/yokwejuste/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yokewejuste&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yokwejuste&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/yokwejuste/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yokwejuste&repo=convoychat" />
