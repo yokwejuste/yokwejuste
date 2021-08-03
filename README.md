@@ -14,7 +14,7 @@ Not a forker, creator is preferable. Creative mindset is on.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yokwejuste&langs_count=13)](#)
 
-[![Yokwejuste's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yokwejuste)](#)
+<!-- [![Yokwejuste's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yokwejuste)](#) -->
 
 
 
