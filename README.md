@@ -19,6 +19,11 @@ Not a forker, creator is preferable. Creative mindset is on.
 
 
 <!--START_SECTION:waka-->
+```text
+Python       2 hrs 4 mins    █████████████▓░░░░░░░░░░░   54.29 % 
+HTML         1 hr 41 mins    ███████████░░░░░░░░░░░░░░   44.08 % 
+Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+```
 <!--END_SECTION:waka-->
 
 
