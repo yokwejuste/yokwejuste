@@ -1,4 +1,4 @@
-Not a forker, creator is preferable. Creative mindset is on.
+Not a forker, init is preferable. Creative mindset is on.
 
 
 ### Hi there 👋
