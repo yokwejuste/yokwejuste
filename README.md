@@ -18,8 +18,6 @@ Not a forker, init is preferable. Creative mindset is on.
 ![Yokwejuste's github stats](https://github-readme-stats.vercel.app/api?username=yokwejuste)
 
 Wakatime Stats
-<figure><embed src="https://wakatime.com/share/@yokwejuste/574fddc7-e706-438a-9338-0d439e0ad969.svg"></embed></figure>
-<br>
 WorkSpace: [![wakatime](https://wakatime.com/badge/user/43f4098f-0e7a-4cea-bc08-38e35655f7b2/project/8ab3968f-03a3-41e1-b1f6-de15cacf2490.svg)](https://wakatime.com/badge/user/43f4098f-0e7a-4cea-bc08-38e35655f7b2/project/8ab3968f-03a3-41e1-b1f6-de15cacf2490)<br>
 Goim-App : [![wakatime](https://wakatime.com/badge/user/43f4098f-0e7a-4cea-bc08-38e35655f7b2/project/e76e877f-e008-4ee3-a199-7c62665aa094.svg)](https://wakatime.com/badge/user/43f4098f-0e7a-4cea-bc08-38e35655f7b2/project/e76e877f-e008-4ee3-a199-7c62665aa094)<br>
 Goim Ami: [![wakatime](https://wakatime.com/badge/user/43f4098f-0e7a-4cea-bc08-38e35655f7b2/project/3f3ed273-1734-42aa-b444-0ea909c09ed3.svg)](https://wakatime.com/badge/user/43f4098f-0e7a-4cea-bc08-38e35655f7b2/project/3f3ed273-1734-42aa-b444-0ea909c09ed3)<br>
