@@ -18,7 +18,7 @@ Not a forker, init is preferable. Creative mindset is on.
 ![Yokwejuste's github stats](https://github-readme-stats.vercel.app/api?username=yokwejuste)
 
 Wakatime Stats
-<figure><embed src="https://wakatime.com/share/@yokwejuste/bc1b0339-b1fd-47c3-bb53-c69ad03b215b.svg"></embed></figure>
+<img><figure><embed src="https://wakatime.com/share/@yokwejuste/bc1b0339-b1fd-47c3-bb53-c69ad03b215b.svg"></embed></figure></img>
 
 Here are some ideas to get you started:
 
