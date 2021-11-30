@@ -24,6 +24,9 @@ Goim Ami: [![wakatime](https://wakatime.com/badge/user/43f4098f-0e7a-4cea-bc08-3
 HacktoberFest 2021: [![wakatime](https://wakatime.com/badge/user/43f4098f-0e7a-4cea-bc08-38e35655f7b2/project/7aa46c2e-0e27-457e-b0f8-0e32d95778c3.svg)](https://wakatime.com/badge/user/43f4098f-0e7a-4cea-bc08-38e35655f7b2/project/7aa46c2e-0e27-457e-b0f8-0e32d95778c3)<br>
 Mr LMS: [![wakatime](https://wakatime.com/badge/user/43f4098f-0e7a-4cea-bc08-38e35655f7b2/project/c66bdd37-26eb-4f26-9d6d-bffd7dafb970.svg)](https://wakatime.com/badge/user/43f4098f-0e7a-4cea-bc08-38e35655f7b2/project/c66bdd37-26eb-4f26-9d6d-bffd7dafb970)<br>
 
+[![Yokwejuste's GitHub stats](https://github-readme-stats.vercel.app/api?username=yokwejuste)](https://github.com/anuraghazra/github-readme-stats)
+
+
 All  time Stats
 <figure><embed src="https://wakatime.com/share/@yokwejuste/3ec485dc-e314-46a6-bc23-7cb9fb848098.svg"></embed></figure>
 
