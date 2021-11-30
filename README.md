@@ -18,14 +18,7 @@ Not a forker, init is preferable. Creative mindset is on.
 ![Yokwejuste's github stats](https://github-readme-stats.vercel.app/api?username=yokwejuste)
 
 
-<!--START_SECTION:waka-->
-```text
-Python       2 hrs 4 mins    █████████████▓░░░░░░░░░░░   54.29 % 
-HTML         1 hr 41 mins    ███████████░░░░░░░░░░░░░░   44.08 % 
-Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-```
-<!--END_SECTION:waka-->
-
+<figure><embed src="https://wakatime.com/share/@yokwejuste/bc1b0339-b1fd-47c3-bb53-c69ad03b215b.svg"></embed></figure>
 
 Here are some ideas to get you started:
 
