@@ -19,6 +19,7 @@ Not a forker, init is preferable. Creative mindset is on.
 
 Wakatime Stats
 <img><figure><embed src="https://wakatime.com/share/@yokwejuste/bc1b0339-b1fd-47c3-bb53-c69ad03b215b.svg"></embed></figure></img>
+[![wakatime](https://wakatime.com/badge/user/43f4098f-0e7a-4cea-bc08-38e35655f7b2/project/8ab3968f-03a3-41e1-b1f6-de15cacf2490.svg)](https://wakatime.com/badge/user/43f4098f-0e7a-4cea-bc08-38e35655f7b2/project/8ab3968f-03a3-41e1-b1f6-de15cacf2490)
 
 Here are some ideas to get you started:
 
