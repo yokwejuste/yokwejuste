@@ -55,8 +55,7 @@ All  time Stats
 <!-- <figure><embed src="https://wakatime.com/share/@yokwejuste/3ec485dc-e314-46a6-bc23-7cb9fb848098.svg"></embed></figure> -->
 <p align="center"><img width="300px" src="https://wakatime.com/share/@yokwejuste/84cb8298-f243-40d4-aba9-5fadfbf927f6.svg"><img width="300px" src="https://wakatime.com/share/@yokwejuste/d7823b37-0c75-4bbf-9664-59906279fd5c.svg"><img width="300px" src="https://wakatime.com/share/@yokwejuste/4f88d86e-6977-4bb4-bb6c-39f593399415.svg"></p>
 Here are some ideas to get you started:
-<p align="center">
-  
+<center>
 - 🔭 I’m currently working on some personnal projects
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on open source projects and available for hiring
@@ -64,4 +63,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, By the way I'm Yokwejuste
 - 📫 How to reach me: yokwejuste@gmail.com
 - 😄 Pronouns: me, him, he
-</p>
+</center>
