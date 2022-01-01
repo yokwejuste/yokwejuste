@@ -1,4 +1,4 @@
-Not a forker, init is preferable. Creative mindset is on.
+Open Source is the goal.
 
 
 ### Hi there 👋
