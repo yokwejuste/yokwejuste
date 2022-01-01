@@ -5,8 +5,8 @@ Not a forker, init is preferable. Creative mindset is on.
 
 # <p align="center">🏆 GitHub Profile Trophy Dudes</p>
 
-<p align="center"><a href="#"><img src="https://api.daily.dev/devcards/67736e8aa63e4c3082aa3ef18ecb21b4.png?r=2h8" width="400" alt="YONKEU KWEYA STEVE JUNIOR's Dev Card"/></a>
-</p>
+<center><a href="#"><img src="https://api.daily.dev/devcards/67736e8aa63e4c3082aa3ef18ecb21b4.png?r=2v1" width="400" alt="YONKEU KWEYA STEVE JUNIOR's Dev Card"/></a>
+</center>
 
 ![](https://github-profile-trophy.vercel.app/?username=yokwejuste&theme=onedark)
 
