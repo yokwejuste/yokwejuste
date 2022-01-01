@@ -49,7 +49,6 @@ HacktoberFest 2021: [![wakatime](https://wakatime.com/badge/user/43f4098f-0e7a-4
 Mr LMS: [![wakatime](https://wakatime.com/badge/user/43f4098f-0e7a-4cea-bc08-38e35655f7b2/project/c66bdd37-26eb-4f26-9d6d-bffd7dafb970.svg)](https://wakatime.com/badge/user/43f4098f-0e7a-4cea-bc08-38e35655f7b2/project/c66bdd37-26eb-4f26-9d6d-bffd7dafb970)<br> -->
 
 <!-- [![Yokwejuste's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yokwejuste)](https://github.com/anuraghazra/github-readme-stats) -->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=yokwejuste"></p>
 
 All  time Stats
 
