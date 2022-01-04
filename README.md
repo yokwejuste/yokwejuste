@@ -57,11 +57,6 @@ Open Source is the goal.
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=yokwejuste)](https://github.com/ryo-ma/github-profile-trophy) -->
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=yokwejuste&row=2&column=4"></p>
 
-<p align="center">
-  <img align="center" width=360 src="https://github-readme-stats.vercel.app/api?username=yokwejuste&show_icons=true&locale=en&theme=nord" alt="elroykanye" />
-  <img align="center" width=360 src="https://github-readme-streak-stats.herokuapp.com/?user=yokwejuste&theme=nord&hide_border=true" alt="elroykanye" />
-</p>
-
 
 <!-- ![My Stats](https://github-readme-stats.vercel.app/api?username=yokwejuste&count_private=true&show_icons=true&theme=dark)
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yokwejuste&count_private=true&show_icons=true&theme=dark"></p> -->
