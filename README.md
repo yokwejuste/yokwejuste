@@ -63,16 +63,16 @@ Open Source is the goal.
 </p>
 
 
-<!-- ![My Stats](https://github-readme-stats.vercel.app/api?username=yokwejuste&count_private=true&show_icons=true&theme=dark) -->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yokwejuste&count_private=true&show_icons=true&theme=dark"></p>
+<!-- ![My Stats](https://github-readme-stats.vercel.app/api?username=yokwejuste&count_private=true&show_icons=true&theme=dark)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yokwejuste&count_private=true&show_icons=true&theme=dark"></p> -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yokwejuste&langs_count=13)](#) -->
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokwejuste&langs_count=20"></p>
 
 <!-- [![Yokwejuste's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yokwejuste)](https://github.com/anuraghazra/github-readme-stats) -->
 <p align="center">
-  <img align="center" width=360 src="https://github-readme-stats.vercel.app/api?username=yokwejuste&show_icons=true&locale=en&theme=nord" alt="elroykanye" />
-  <img align="center" width=360 src="https://github-readme-streak-stats.herokuapp.com/?user=yokwejustee&theme=nord&hide_border=true" alt="elroykanye" />
+  <img align="center" width=360 src="https://github-readme-stats.vercel.app/api?username=yokwejuste&show_icons=true&locale=en&theme=nord" alt="yokwejuste" />
+  <img align="center" width=360 src="https://github-readme-streak-stats.herokuapp.com/?user=yokwejuste&theme=nord&hide_border=true" alt="yokwejuste" />
 </p>
 
 All  time Stats
