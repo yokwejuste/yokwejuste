@@ -43,7 +43,8 @@ Open Source is the goal.
   <img src="https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white">
 </p>
 
-<p align="center"><a href="#"><img src="https://api.daily.dev/devcards/67736e8aa63e4c3082aa3ef18ecb21b4.png?r=w2s" width="400" alt="YONKEU KWEYA STEVE JUNIOR's Dev Card"/></a>
+<p align="center">
+  <a href="#"><img src="https://api.daily.dev/devcards/67736e8aa63e4c3082aa3ef18ecb21b4.png?r=arn" width="400" alt="YONKEU KWEYA STEVE JUNIOR's Dev Card"/></a>
 </p>
 <h2>My Social links<h2>
 <p align="center">
