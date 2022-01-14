@@ -44,7 +44,7 @@ Open Source is the goal.
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://api.daily.dev/devcards/67736e8aa63e4c3082aa3ef18ecb21b4.png?r=arn" width="400" alt="YONKEU KWEYA STEVE JUNIOR's Dev Card"/></a>
+  <a href="#"><img src="https://github.com/yokwejuste/yokwejuste/blob/master/devcard.svg" width="400" alt="Yonkeu K. Steve's Dev Card"/></a>
 </p>
 <h2>My Social links<h2>
 <p align="center">
