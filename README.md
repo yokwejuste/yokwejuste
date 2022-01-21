@@ -3,6 +3,8 @@ Open Source is the goal.
 
 ### Hi there 👋
 
+# My Skills 😎
+
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
