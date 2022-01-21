@@ -3,8 +3,6 @@ Open Source is the goal.
 
 ### Hi there 👋
 
-# <p align="center">🏆 GitHub Profile Trophy Dudes</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
@@ -60,6 +58,7 @@ Open Source is the goal.
 
 <!-- ![](https://github-profile-trophy.vercel.app/?username=yokwejuste&theme=onedark) -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=yokwejuste)](https://github.com/ryo-ma/github-profile-trophy) -->
+  # <p align="center">🏆 GitHub Profile Trophy Dudes</p>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=yokwejuste&row=2&column=4"></p>
 
 
