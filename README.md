@@ -5,7 +5,6 @@ Open Source is the goal.
 
 # My Skills 😎
 
-<p align="center">
 ### Languages I digest 🤤
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
@@ -46,7 +45,6 @@ Open Source is the goal.
   <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
   <img src="https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white">
   <img src="https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white">
-</p>
 
 <p align="center">
   <kbd  style="border-radius: 25px;">
