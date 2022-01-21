@@ -44,9 +44,10 @@ Open Source is the goal.
 </p>
 
 <p align="center">
-  <kbd>
-    <img src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif" alt="programming fool" style="border-radius: 30px">
+  <kbd  style="border-radius: 25px;">
+    <img src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif" alt="programming fool">
   </kbd>
+  <br><br>
   <a href="#"><img src="https://github.com/yokwejuste/yokwejuste/blob/master/devcard.svg" width="400" alt="Yonkeu K. Steve's Dev Card"/></a>
 </p>
 <h2>My Social links<h2>
