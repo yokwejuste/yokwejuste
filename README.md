@@ -1,4 +1,7 @@
 Open Source is the goal.
+Hi ![visitor](https://profile-counter.glitch.me/yokwejuste/count.svg).
+
+![https://metrics.lecoq.io/sanix-darker](https://metrics.lecoq.io/yokwejuste)
 
 
 ### Hi there 👋
