@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
 </p>
 
-<h3>My Frameworks I use 😌</h3>
+<h3>My Frameworks I use 😌 </h3>
 
 <p align="center">
  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
