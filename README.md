@@ -1,8 +1,6 @@
-<p align="center">
-<!-- ![visitor](https://profile-counter.glitch.me/yokwejuste/count.svg) -->
+![visitor](https://profile-counter.glitch.me/yokwejuste/count.svg)
 
 ![](https://metrics.lecoq.io/yokwejuste/)
-</p>
 
 ### Hi there 👋
 
