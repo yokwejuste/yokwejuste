@@ -3,6 +3,8 @@
 
 ## Coding Time
 
+[![wakatime-stats](https://github.com/yokwejuste/yokwejuste/blob/master/images/stat.svg)](https://wakatime.com/@yokwejuste)
+
 ![](https://metrics.lecoq.io/yokwejuste/)
 
 ### Hi there 👋
