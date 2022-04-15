@@ -1,6 +1,8 @@
 ## Hey Visitors
 ![visitor](https://profile-counter.glitch.me/yokwejuste/count.svg)
 
+## Coding Time
+
 ![](https://metrics.lecoq.io/yokwejuste/)
 
 ### Hi there 👋
