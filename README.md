@@ -1,6 +1,12 @@
 ## Hey Visitors
 ![visitor](https://profile-counter.glitch.me/yokwejuste/count.svg)
 
+## Contributions
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yokwejuste/yokwejuste/output/github-contribution-grid-snake.svg" />
+</p>
+
+
 ## Coding Time
 
 [![wakatime-stats](https://github.com/yokwejuste/yokwejuste/blob/master/images/stat.svg)](https://wakatime.com/@yokwejuste)
