@@ -11,7 +11,7 @@
 
 [![wakatime-stats](https://github.com/yokwejuste/yokwejuste/blob/master/images/stat.svg)](https://wakatime.com/@yokwejuste)
 
-![](https://metrics.lecoq.io/yokwejuste/)
+![Le COQ](https://metrics.lecoq.io/yokwejuste/)
 <p align="center">
   <a href="#"><img src="https://github.com/yokwejuste/yokwejuste/blob/master/devcard.svg" width="400" alt="Yonkeu K. Steve's Dev Card"/></a>
 </p>
