@@ -7,6 +7,8 @@
 </p>
 
 ## My Activites
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## Coding Time
 
