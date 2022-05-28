@@ -6,7 +6,6 @@
   <img src="https://raw.githubusercontent.com/yokwejuste/yokwejuste/output/github-contribution-grid-snake.svg" />
 </p>
 
-## My Activites
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
