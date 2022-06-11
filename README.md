@@ -7,7 +7,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-883%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-883%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-147-blue)
 
@@ -96,7 +96,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/yokwejuste/yokwejuste/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/06/2022 15:46:07 UTC
+ Last Updated on 11/06/2022 15:51:40 UTC
 <!--END_SECTION:waka-->
 
 ## Coding Time
