@@ -7,30 +7,30 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-85-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,415 Contributions in the Year 2022
+> 🏆 1,514 Contributions in the Year 2022
  > 
-> 📦 176.7 kB Used in GitHub's Storage 
+> 📦 176.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 98 Public Repositories 
+> 📜 102 Public Repositories 
  > 
 > 🔑 8 Private Repositories  
  > 
 **I Mostly Code in Python** 
 
 ```text
-Python                   10 repos            ███████░░░░░░░░░░░░░░░░░░   27.78% 
-JavaScript               9 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-HTML                     8 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
-Dart                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
+Python                   11 repos            ███████░░░░░░░░░░░░░░░░░░   29.73% 
+JavaScript               9 repos             ██████░░░░░░░░░░░░░░░░░░░   24.32% 
+HTML                     8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.62% 
+Dart                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.11% 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.41%
 
 ```
 
@@ -40,7 +40,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/yokwejuste/yokwejuste/master/charts/bar_graph.png) 
 
 
- Last Updated on 26/06/2022 06:30:01 UTC
+ Last Updated on 31/07/2022 11:04:24 UTC
 <!--END_SECTION:waka-->
 
 ## Coding Time
