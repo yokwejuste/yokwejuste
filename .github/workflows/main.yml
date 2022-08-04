@@ -20,4 +20,4 @@ jobs:
           # Branch - newer GitHub repositories have "main" as default branch, change to main in that case, default is master
           BRANCH: "master"
           # Manual Commit messages - write your own messages here
-          COMMIT_MSG: ":snake: succesful code time update"
+          COMMIT_MSG: "feat: succesful code time update"
