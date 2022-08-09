@@ -3,8 +3,8 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 00:00AM UTC
-    - cron: '0 0 * * *'
+    # Runs at 00:20AM UTC
+    - cron: '0 20 * * *'
     
   push:
     branches:
