@@ -9,7 +9,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C249%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-372%20Thousand%20lines%20of%20code-blue)
 
@@ -17,7 +17,7 @@
 
 > 🏆 2,121 Contributions in the Year 2022
  > 
-> 📦 160.2 kB Used in GitHub's Storage 
+> 📦 160.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -84,7 +84,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/yokwejuste/yokwejuste/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/11/2022 20:22:46 UTC
+ Last Updated on 08/11/2022 20:16:38 UTC
 <!--END_SECTION:waka-->
 
 ## Coding Time
