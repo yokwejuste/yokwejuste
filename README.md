@@ -7,7 +7,7 @@ You're visitor number ![visitor](https://profile-counter.glitch.me/yokwejuste/co
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C338%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C338%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -17,7 +17,7 @@ You're visitor number ![visitor](https://profile-counter.glitch.me/yokwejuste/co
 
 > 🏆 29 Contributions in the Year 2023
  > 
-> 📦 167.9 kB Used in GitHub's Storage 
+> 📦 167.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -54,22 +54,19 @@ Sunday       139 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-Other                    11 hrs 19 mins      ████████████████████████░   98.94% 
-Dart                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.06%
+Other                    12 hrs 8 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Google Calendar          11 hrs              ████████████████████████░   96.05% 
-fish                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7% 
-VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25%
+Google Calendar          12 hrs              ████████████████████████░   98.86% 
+fish                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.14%
 
 🐱‍💻 Projects: 
-Unknown Project          11 hrs              ████████████████████████░   96.05% 
-ClojureDart              18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.74% 
-Terminal                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21%
+Unknown Project          12 hrs              ████████████████████████░   98.86% 
+Terminal                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.14%
 
 💻 Operating System: 
-Unknown OS               11 hrs              ████████████████████████░   96.05% 
-Linux                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.95%
+Unknown OS               12 hrs              ████████████████████████░   98.86% 
+Linux                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.14%
 
 ```
 
@@ -90,7 +87,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/yokwejuste/yokwejuste/master/charts/bar_graph.png) 
 
 
- Last Updated on 28/01/2023 20:18:30 UTC
+ Last Updated on 29/01/2023 20:13:21 UTC
 <!--END_SECTION:waka-->
 
 ## Coding Time
