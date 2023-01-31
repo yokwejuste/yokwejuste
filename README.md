@@ -9,7 +9,7 @@ You're visitor number ![visitor](https://profile-counter.glitch.me/yokwejuste/co
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C338%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-523%20Thousand%20lines%20of%20code-blue)
 
@@ -87,7 +87,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/yokwejuste/yokwejuste/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/01/2023 20:16:13 UTC
+ Last Updated on 31/01/2023 20:23:10 UTC
 <!--END_SECTION:waka-->
 
 ## Coding Time
