@@ -7,9 +7,9 @@ You're visitor number ![visitor](https://profile-counter.glitch.me/yokwejuste/co
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C338%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C339%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-523%20Thousand%20lines%20of%20code-blue)
 
@@ -54,19 +54,19 @@ Sunday       139 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-Other                    10 hrs 20 mins      █████████████████████████   100.0%
+Other                    10 hrs 11 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-Google Calendar          10 hrs              ████████████████████████░   96.73% 
-fish                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.27%
+Google Calendar          10 hrs              ████████████████████████░   98.04% 
+fish                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96%
 
 🐱‍💻 Projects: 
-Unknown Project          10 hrs              ████████████████████████░   96.73% 
-Terminal                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.27%
+Unknown Project          10 hrs              ████████████████████████░   98.04% 
+Terminal                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96%
 
 💻 Operating System: 
-Unknown OS               10 hrs              ████████████████████████░   96.73% 
-Linux                    20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.27%
+Unknown OS               10 hrs              ████████████████████████░   98.04% 
+Linux                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96%
 
 ```
 
@@ -87,7 +87,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/yokwejuste/yokwejuste/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/01/2023 20:23:10 UTC
+ Last Updated on 01/02/2023 20:13:55 UTC
 <!--END_SECTION:waka-->
 
 ## Coding Time
