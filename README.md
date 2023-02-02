@@ -9,7 +9,7 @@ You're visitor number ![visitor](https://profile-counter.glitch.me/yokwejuste/co
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C339%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-523%20Thousand%20lines%20of%20code-blue)
 
@@ -54,19 +54,19 @@ Sunday       139 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-Other                    10 hrs 11 mins      █████████████████████████   100.0%
+Other                    7 hrs 41 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Google Calendar          10 hrs              ████████████████████████░   98.04% 
-fish                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96%
+Google Calendar          7 hrs 30 mins       ████████████████████████░   97.41% 
+fish                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.59%
 
 🐱‍💻 Projects: 
-Unknown Project          10 hrs              ████████████████████████░   98.04% 
-Terminal                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96%
+Unknown Project          7 hrs 30 mins       ████████████████████████░   97.41% 
+Terminal                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.59%
 
 💻 Operating System: 
-Unknown OS               10 hrs              ████████████████████████░   98.04% 
-Linux                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96%
+Unknown OS               7 hrs 30 mins       ████████████████████████░   97.41% 
+Linux                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.59%
 
 ```
 
@@ -87,7 +87,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/yokwejuste/yokwejuste/master/charts/bar_graph.png) 
 
 
- Last Updated on 01/02/2023 20:19:18 UTC
+ Last Updated on 02/02/2023 20:14:51 UTC
 <!--END_SECTION:waka-->
 
 ## Coding Time
