@@ -7,7 +7,7 @@ You're visitor number ![visitor](https://profile-counter.glitch.me/yokwejuste/co
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C339%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C341%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -17,7 +17,7 @@ You're visitor number ![visitor](https://profile-counter.glitch.me/yokwejuste/co
 
 > 🏆 29 Contributions in the Year 2023
  > 
-> 📦 167.9 kB Used in GitHub's Storage 
+> 📦 168.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -54,19 +54,19 @@ Sunday       139 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-Other                    7 hrs 41 mins       █████████████████████████   100.0%
+Other                    2 hrs 11 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Google Calendar          7 hrs 30 mins       ████████████████████████░   97.41% 
-fish                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.59%
+Google Calendar          2 hrs               ██████████████████████░░░   90.92% 
+fish                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.08%
 
 🐱‍💻 Projects: 
-Unknown Project          7 hrs 30 mins       ████████████████████████░   97.41% 
-Terminal                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.59%
+Unknown Project          2 hrs               ██████████████████████░░░   90.92% 
+Terminal                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.08%
 
 💻 Operating System: 
-Unknown OS               7 hrs 30 mins       ████████████████████████░   97.41% 
-Linux                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.59%
+Unknown OS               2 hrs               ██████████████████████░░░   90.92% 
+Linux                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.08%
 
 ```
 
@@ -87,7 +87,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/yokwejuste/yokwejuste/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/02/2023 20:21:45 UTC
+ Last Updated on 03/02/2023 20:14:56 UTC
 <!--END_SECTION:waka-->
 
 ## Coding Time
