@@ -14,7 +14,7 @@ class Yokwejuste:
         self.name = "Steve Junior Yonkeu Kweya"
         self.email = "yokwejuste@gmail.com"
 +       self.phone = "+237 677 123 206"
--       self.phone = "+237 677 123 206"
+-       self.phone = "+237 656 248 161"
         self.linkedin = "linkedin.com/in/yokwejuste"
         self.github = "@yokwejuste"
         self.twitter = "@yokwejuste"
