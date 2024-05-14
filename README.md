@@ -1,4 +1,12 @@
 ## Hey there 👋
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/yokwejuste/count.svg" />
+</p>
+<p align="center">
+  <img src="https://github.com/yokwejuste/yokwejuste/assets/71908316/1295a267-6ba2-4637-978a-fe5f77e1e2a4" />
+</p>
+
 ```diff
 class Yokwejuste:
     def __init__(self):
@@ -136,18 +144,9 @@ class Yokwejuste:
 ![](https://img.shields.io/badge/Java-blue?style=flat&logo=java&logoColor=white)
 
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/yokwejuste/count.svg" />
-</p>
-
-<p align="center"> 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yokwejuste&theme=github_dark" alt="img start"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=yokwejuste&theme=highcontrast&border_radius=7)](https://github.com/yokwejuste"/>
-</p>
-
-<p align="center"> 
-  <img src="https://holopin.me/yokwejuste)](https://holopin.io/@yokwejuste"/>
 </p>
