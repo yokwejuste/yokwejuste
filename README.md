@@ -24,12 +24,22 @@ class Yokwejuste:
         # Hard Skills
         self.languages = ["Python", "Go", "JavaScript"]
         self.frameworks = ["Django", "Flask", "Gin"]
-        self.tools = ["Jenkins", "JIRA", "Git", "Azure", "AWS"]
+        self.tools = [
+              "Jenkins", "JIRA",
+              "Git", "Azure", "AWS"
+        ]
         self.other_skills = ["DevOps", "Cloud Architecture"]
-        self.languages_proficiency = {"French": "Fluent", "English": "Native"}
+        self.languages_proficiency = {
+                "French": "Fluent",
+                "English": "Native"
+        }
 
         # Soft Skills
-        self.soft_skills = ["Communication", "Teamwork", "Leadership", "Analytical and Problem-solving", "Sociable"]
+        self.soft_skills = [
+              "Communication", "Teamwork",
+              "Sociable", "Leadership",
+              "Analytical and Problem-solving",
+        ]
         
         # Education
         self.education = {
@@ -43,6 +53,7 @@ class Yokwejuste:
         # Projects
         self.projects = [
             "Visuleo Portfolio",
++           "Stripe Payment",
             "Onacut",
             "Atalkam",
             "DocLMS",
@@ -88,7 +99,7 @@ class Yokwejuste:
 ![](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![](	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 📌 Framework
 ![](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) 
@@ -97,7 +108,7 @@ class Yokwejuste:
 ![](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![](	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 ### 📌 Database
