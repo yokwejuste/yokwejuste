@@ -26,11 +26,6 @@ class Yokwejuste:
               "Jenkins", "JIRA",
               "Git", "Azure", "AWS"
         ]
-        self.other_skills = ["DevOps", "Cloud Architecture"]
-        self.languages_proficiency = {
-                "French": "Fluent",
-                "English": "Native"
-        }
 
         # Soft Skills
         self.soft_skills = [
@@ -38,6 +33,14 @@ class Yokwejuste:
               "Sociable", "Leadership",
               "Analytical and Problem-solving",
         ]
+        self.other_skills = ["DevOps", "Cloud Architecture"]
+
+        # Spoken Languages
+        self.languages_proficiency = {
+                "French": "Fluent",
+                "English": "Native",
+                "Dutch": "Intermediate"
+        }
         
         # Education
         self.education = {
