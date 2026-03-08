@@ -86,7 +86,7 @@ class Steve:
 
 if __name__ == "__main__":
     print("Thanks for stopping by! Let's build something 🔥")
-    # 📬  yokwejuste@gmail.com
+    # 📬  steve@yokwejuste.me
     # 🔗  linkedin.com/in/yokwejuste
     # 🐙  github.com/yokwejuste
 ```
