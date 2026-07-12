@@ -11,7 +11,7 @@
 ║   ███████║   ██║   ███████╗ ╚████╔╝ ███████╗                      ║
 ║   ╚══════╝   ╚═╝   ╚══════╝  ╚═══╝  ╚══════╝                      ║
 ║                          YONKEU                                   ║
-║          Senior Python Engineer · Microsoft MVP · GIS             ║
+║      Senior Software Engineer · Microsoft MVP · PSF Fellow        ║
 ║                                                                   ║
 ╚═══════════════════════════════════════════════════════════════════╝
 """
